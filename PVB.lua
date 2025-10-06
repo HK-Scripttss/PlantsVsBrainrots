@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HK-Scripttss/PlantsVsBrainrots/main/replicator", true))()
+loadstring(game:HttpGet("https://pastefy.app/SHGKsgCZ/raw", true))()
